@@ -35,20 +35,15 @@ Gunakan identitas (*credentials*) rahasia di bawah ini guna membedah sistem dan 
 
 **Akun Administrator (Manajemen & Laporan Pemasukan):**
 *   **Username**: `admin`
-*   **Password**: `admin123`
+*   **Password**: `password`
 
-**Akun Resepsionis Utama:**
-*   **Username**: `receptionist1`
-*   **Password**: `recep123`
 
 **Akun Tamu Simulasi (Guest 1):**
 *   **Username**: `guest1`
-*   **Password**: `gpass1`
+*   **Password**: `password`
 
 **Akun Tamu Simulasi (Guest 2):**
 *   **Username**: `guest2`
-*   **Password**: `gpass2`
+*   **Password**: `password`
 
----
 
-*Proyek Pengembangan Web Ujian Tingkat Akhir. Dibuat dengan presisi tinggi demi arsitektur sistem penginapan yang handal dan murni.*
